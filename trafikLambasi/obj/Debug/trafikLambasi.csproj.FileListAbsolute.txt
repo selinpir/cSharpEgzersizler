@@ -1,0 +1,11 @@
+C:\Users\selin\Desktop\visualst\C#\trafikLambasi\bin\Debug\trafikLambasi.exe.config
+C:\Users\selin\Desktop\visualst\C#\trafikLambasi\bin\Debug\trafikLambasi.exe
+C:\Users\selin\Desktop\visualst\C#\trafikLambasi\bin\Debug\trafikLambasi.pdb
+C:\Users\selin\Desktop\visualst\C#\trafikLambasi\obj\Debug\trafikLambasi.csproj.AssemblyReference.cache
+C:\Users\selin\Desktop\visualst\C#\trafikLambasi\obj\Debug\trafikLambasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\selin\Desktop\visualst\C#\trafikLambasi\obj\Debug\trafikLambasi.Form1.resources
+C:\Users\selin\Desktop\visualst\C#\trafikLambasi\obj\Debug\trafikLambasi.Properties.Resources.resources
+C:\Users\selin\Desktop\visualst\C#\trafikLambasi\obj\Debug\trafikLambasi.csproj.GenerateResource.cache
+C:\Users\selin\Desktop\visualst\C#\trafikLambasi\obj\Debug\trafikLambasi.csproj.CoreCompileInputs.cache
+C:\Users\selin\Desktop\visualst\C#\trafikLambasi\obj\Debug\trafikLambasi.exe
+C:\Users\selin\Desktop\visualst\C#\trafikLambasi\obj\Debug\trafikLambasi.pdb
