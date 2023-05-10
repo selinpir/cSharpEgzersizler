@@ -1,0 +1,11 @@
+C:\Users\selin\Desktop\visualst\C#\pastaPisirmeUyg\bin\Debug\pastaPisirmeUyg.exe.config
+C:\Users\selin\Desktop\visualst\C#\pastaPisirmeUyg\bin\Debug\pastaPisirmeUyg.exe
+C:\Users\selin\Desktop\visualst\C#\pastaPisirmeUyg\bin\Debug\pastaPisirmeUyg.pdb
+C:\Users\selin\Desktop\visualst\C#\pastaPisirmeUyg\obj\Debug\pastaPisirmeUyg.csproj.AssemblyReference.cache
+C:\Users\selin\Desktop\visualst\C#\pastaPisirmeUyg\obj\Debug\pastaPisirmeUyg.csproj.SuggestedBindingRedirects.cache
+C:\Users\selin\Desktop\visualst\C#\pastaPisirmeUyg\obj\Debug\pastaPisirmeUyg.Form1.resources
+C:\Users\selin\Desktop\visualst\C#\pastaPisirmeUyg\obj\Debug\pastaPisirmeUyg.Properties.Resources.resources
+C:\Users\selin\Desktop\visualst\C#\pastaPisirmeUyg\obj\Debug\pastaPisirmeUyg.csproj.GenerateResource.cache
+C:\Users\selin\Desktop\visualst\C#\pastaPisirmeUyg\obj\Debug\pastaPisirmeUyg.csproj.CoreCompileInputs.cache
+C:\Users\selin\Desktop\visualst\C#\pastaPisirmeUyg\obj\Debug\pastaPisirmeUyg.exe
+C:\Users\selin\Desktop\visualst\C#\pastaPisirmeUyg\obj\Debug\pastaPisirmeUyg.pdb
