@@ -1,0 +1,11 @@
+C:\Users\selin\Desktop\randomquote\bin\Debug\randomquote.exe.config
+C:\Users\selin\Desktop\randomquote\bin\Debug\randomquote.exe
+C:\Users\selin\Desktop\randomquote\bin\Debug\randomquote.pdb
+C:\Users\selin\Desktop\randomquote\obj\Debug\randomquote.csproj.AssemblyReference.cache
+C:\Users\selin\Desktop\randomquote\obj\Debug\randomquote.csproj.SuggestedBindingRedirects.cache
+C:\Users\selin\Desktop\randomquote\obj\Debug\randomquote.Form1.resources
+C:\Users\selin\Desktop\randomquote\obj\Debug\randomquote.Properties.Resources.resources
+C:\Users\selin\Desktop\randomquote\obj\Debug\randomquote.csproj.GenerateResource.cache
+C:\Users\selin\Desktop\randomquote\obj\Debug\randomquote.csproj.CoreCompileInputs.cache
+C:\Users\selin\Desktop\randomquote\obj\Debug\randomquote.exe
+C:\Users\selin\Desktop\randomquote\obj\Debug\randomquote.pdb
