@@ -1,4 +1,9 @@
 # cSharpEgzersizler
+girilen sayının binary sistemde 1 ve 0 fazlasını gösterme
+![image](https://github.com/selinpir/cSharpEgzersizler/assets/113732977/1da3a2e8-3bc3-4ac4-9227-285171885309)
+
+
+
 TRAFİK LAMBASI
 ![asayis](https://user-images.githubusercontent.com/113732977/236689654-d9d579e1-59de-4f0e-beef-8b3a36913160.png)
 
