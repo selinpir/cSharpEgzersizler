@@ -1,4 +1,20 @@
 # cSharpEgzersizler
+girilen sayının binary sistemde 1 ve 0 fazlasını gösterme
+![image](https://github.com/selinpir/cSharpEgzersizler/assets/113732977/1da3a2e8-3bc3-4ac4-9227-285171885309)
+
+* 7 sayısının binary karşılığı: 111 
+* 79 sayısının binary karşılığı: 1001111
+* 89 sayısının binary karşılığı: 1011001
+* 80 sayısının binary karşılığı: 1010000
+* 20 sayısının binary karşılığı: 10100
+* 12 sayısının binary karşılığı: 1100
+* 34 sayısının binary karşılığı: 100010
+* 54 sayısının binary karşılığı: 110110
+* 45 sayısının binary karşılığı: 101101
+* 67 sayısının binary karşılığı: 1000011
+
+
+
 TRAFİK LAMBASI
 ![asayis](https://user-images.githubusercontent.com/113732977/236689654-d9d579e1-59de-4f0e-beef-8b3a36913160.png)
 
