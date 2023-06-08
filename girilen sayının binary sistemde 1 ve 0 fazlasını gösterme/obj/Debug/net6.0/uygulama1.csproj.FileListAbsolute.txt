@@ -1,0 +1,15 @@
+C:\Users\selin\Desktop\uygulama1\bin\Debug\net6.0\uygulama1.exe
+C:\Users\selin\Desktop\uygulama1\bin\Debug\net6.0\uygulama1.deps.json
+C:\Users\selin\Desktop\uygulama1\bin\Debug\net6.0\uygulama1.runtimeconfig.json
+C:\Users\selin\Desktop\uygulama1\bin\Debug\net6.0\uygulama1.dll
+C:\Users\selin\Desktop\uygulama1\bin\Debug\net6.0\uygulama1.pdb
+C:\Users\selin\Desktop\uygulama1\obj\Debug\net6.0\uygulama1.csproj.AssemblyReference.cache
+C:\Users\selin\Desktop\uygulama1\obj\Debug\net6.0\uygulama1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selin\Desktop\uygulama1\obj\Debug\net6.0\uygulama1.AssemblyInfoInputs.cache
+C:\Users\selin\Desktop\uygulama1\obj\Debug\net6.0\uygulama1.AssemblyInfo.cs
+C:\Users\selin\Desktop\uygulama1\obj\Debug\net6.0\uygulama1.csproj.CoreCompileInputs.cache
+C:\Users\selin\Desktop\uygulama1\obj\Debug\net6.0\uygulama1.dll
+C:\Users\selin\Desktop\uygulama1\obj\Debug\net6.0\refint\uygulama1.dll
+C:\Users\selin\Desktop\uygulama1\obj\Debug\net6.0\uygulama1.pdb
+C:\Users\selin\Desktop\uygulama1\obj\Debug\net6.0\uygulama1.genruntimeconfig.cache
+C:\Users\selin\Desktop\uygulama1\obj\Debug\net6.0\ref\uygulama1.dll
