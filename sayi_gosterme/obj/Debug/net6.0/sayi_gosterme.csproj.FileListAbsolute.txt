@@ -1,0 +1,15 @@
+C:\Users\selin\Desktop\sayi_gosterme\bin\Debug\net6.0\sayi_gosterme.exe
+C:\Users\selin\Desktop\sayi_gosterme\bin\Debug\net6.0\sayi_gosterme.deps.json
+C:\Users\selin\Desktop\sayi_gosterme\bin\Debug\net6.0\sayi_gosterme.runtimeconfig.json
+C:\Users\selin\Desktop\sayi_gosterme\bin\Debug\net6.0\sayi_gosterme.dll
+C:\Users\selin\Desktop\sayi_gosterme\bin\Debug\net6.0\sayi_gosterme.pdb
+C:\Users\selin\Desktop\sayi_gosterme\obj\Debug\net6.0\sayi_gosterme.csproj.AssemblyReference.cache
+C:\Users\selin\Desktop\sayi_gosterme\obj\Debug\net6.0\sayi_gosterme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selin\Desktop\sayi_gosterme\obj\Debug\net6.0\sayi_gosterme.AssemblyInfoInputs.cache
+C:\Users\selin\Desktop\sayi_gosterme\obj\Debug\net6.0\sayi_gosterme.AssemblyInfo.cs
+C:\Users\selin\Desktop\sayi_gosterme\obj\Debug\net6.0\sayi_gosterme.csproj.CoreCompileInputs.cache
+C:\Users\selin\Desktop\sayi_gosterme\obj\Debug\net6.0\sayi_gosterme.dll
+C:\Users\selin\Desktop\sayi_gosterme\obj\Debug\net6.0\refint\sayi_gosterme.dll
+C:\Users\selin\Desktop\sayi_gosterme\obj\Debug\net6.0\sayi_gosterme.pdb
+C:\Users\selin\Desktop\sayi_gosterme\obj\Debug\net6.0\sayi_gosterme.genruntimeconfig.cache
+C:\Users\selin\Desktop\sayi_gosterme\obj\Debug\net6.0\ref\sayi_gosterme.dll
