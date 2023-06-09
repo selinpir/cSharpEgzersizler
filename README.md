@@ -1,5 +1,10 @@
 # cSharpEgzersizler
 
+* seri söz getir
+ 
+![image](https://github.com/selinpir/cSharpEgzersizler/assets/113732977/e616e140-225d-4ebb-8969-5025ddbe95fe)
+
+
 * Sezar Şifreleme
  
 ![image](https://github.com/selinpir/cSharpEgzersizler/assets/113732977/0061d295-11f1-45cb-9ef3-a9ed120c5349)
