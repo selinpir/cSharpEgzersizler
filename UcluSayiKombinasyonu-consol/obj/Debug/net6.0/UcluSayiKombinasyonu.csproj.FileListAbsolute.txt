@@ -1,0 +1,15 @@
+C:\Users\selin\Desktop\UcluSayiKombinasyonu\bin\Debug\net6.0\UcluSayiKombinasyonu.exe
+C:\Users\selin\Desktop\UcluSayiKombinasyonu\bin\Debug\net6.0\UcluSayiKombinasyonu.deps.json
+C:\Users\selin\Desktop\UcluSayiKombinasyonu\bin\Debug\net6.0\UcluSayiKombinasyonu.runtimeconfig.json
+C:\Users\selin\Desktop\UcluSayiKombinasyonu\bin\Debug\net6.0\UcluSayiKombinasyonu.dll
+C:\Users\selin\Desktop\UcluSayiKombinasyonu\bin\Debug\net6.0\UcluSayiKombinasyonu.pdb
+C:\Users\selin\Desktop\UcluSayiKombinasyonu\obj\Debug\net6.0\UcluSayiKombinasyonu.csproj.AssemblyReference.cache
+C:\Users\selin\Desktop\UcluSayiKombinasyonu\obj\Debug\net6.0\UcluSayiKombinasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selin\Desktop\UcluSayiKombinasyonu\obj\Debug\net6.0\UcluSayiKombinasyonu.AssemblyInfoInputs.cache
+C:\Users\selin\Desktop\UcluSayiKombinasyonu\obj\Debug\net6.0\UcluSayiKombinasyonu.AssemblyInfo.cs
+C:\Users\selin\Desktop\UcluSayiKombinasyonu\obj\Debug\net6.0\UcluSayiKombinasyonu.csproj.CoreCompileInputs.cache
+C:\Users\selin\Desktop\UcluSayiKombinasyonu\obj\Debug\net6.0\UcluSayiKombinasyonu.dll
+C:\Users\selin\Desktop\UcluSayiKombinasyonu\obj\Debug\net6.0\refint\UcluSayiKombinasyonu.dll
+C:\Users\selin\Desktop\UcluSayiKombinasyonu\obj\Debug\net6.0\UcluSayiKombinasyonu.pdb
+C:\Users\selin\Desktop\UcluSayiKombinasyonu\obj\Debug\net6.0\UcluSayiKombinasyonu.genruntimeconfig.cache
+C:\Users\selin\Desktop\UcluSayiKombinasyonu\obj\Debug\net6.0\ref\UcluSayiKombinasyonu.dll
