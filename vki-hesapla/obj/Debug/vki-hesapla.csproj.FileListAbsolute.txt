@@ -10,3 +10,14 @@ C:\Users\selin\Desktop\vki-hesapla\obj\Debug\vki-hesapla.csproj.CoreCompileInput
 C:\Users\selin\Desktop\vki-hesapla\obj\Debug\vki-hesapla.exe
 C:\Users\selin\Desktop\vki-hesapla\obj\Debug\vki-hesapla.pdb
 C:\Users\selin\Desktop\vki-hesapla\obj\Debug\vki_hesapla.Form2.resources
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\cSharpEgzersizler\vki-hesapla\bin\Debug\vki-hesapla.exe.config
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\cSharpEgzersizler\vki-hesapla\bin\Debug\vki-hesapla.exe
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\cSharpEgzersizler\vki-hesapla\bin\Debug\vki-hesapla.pdb
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\cSharpEgzersizler\vki-hesapla\obj\Debug\vki-hesapla.csproj.AssemblyReference.cache
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\cSharpEgzersizler\vki-hesapla\obj\Debug\vki_hesapla.vki.resources
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\cSharpEgzersizler\vki-hesapla\obj\Debug\vki_hesapla.Form2.resources
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\cSharpEgzersizler\vki-hesapla\obj\Debug\vki_hesapla.Properties.Resources.resources
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\cSharpEgzersizler\vki-hesapla\obj\Debug\vki-hesapla.csproj.GenerateResource.cache
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\cSharpEgzersizler\vki-hesapla\obj\Debug\vki-hesapla.csproj.CoreCompileInputs.cache
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\cSharpEgzersizler\vki-hesapla\obj\Debug\vki-hesapla.exe
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\cSharpEgzersizler\vki-hesapla\obj\Debug\vki-hesapla.pdb

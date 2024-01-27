@@ -1,0 +1,10 @@
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\cSharpEgzersizler\zar_atma_oyunu\zar_atma_oyunu\obj\Debug\zar_atma_oyunu.csproj.AssemblyReference.cache
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\cSharpEgzersizler\zar_atma_oyunu\zar_atma_oyunu\obj\Debug\zar_atma_oyunu.Form1.resources
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\cSharpEgzersizler\zar_atma_oyunu\zar_atma_oyunu\obj\Debug\zar_atma_oyunu.Properties.Resources.resources
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\cSharpEgzersizler\zar_atma_oyunu\zar_atma_oyunu\obj\Debug\zar_atma_oyunu.csproj.GenerateResource.cache
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\cSharpEgzersizler\zar_atma_oyunu\zar_atma_oyunu\obj\Debug\zar_atma_oyunu.csproj.CoreCompileInputs.cache
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\cSharpEgzersizler\zar_atma_oyunu\zar_atma_oyunu\bin\Debug\zar_atma_oyunu.exe.config
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\cSharpEgzersizler\zar_atma_oyunu\zar_atma_oyunu\bin\Debug\zar_atma_oyunu.exe
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\cSharpEgzersizler\zar_atma_oyunu\zar_atma_oyunu\bin\Debug\zar_atma_oyunu.pdb
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\cSharpEgzersizler\zar_atma_oyunu\zar_atma_oyunu\obj\Debug\zar_atma_oyunu.exe
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\cSharpEgzersizler\zar_atma_oyunu\zar_atma_oyunu\obj\Debug\zar_atma_oyunu.pdb

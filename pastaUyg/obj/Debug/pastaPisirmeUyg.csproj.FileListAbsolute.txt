@@ -9,3 +9,13 @@ C:\Users\selin\Desktop\visualst\C#\pastaPisirmeUyg\obj\Debug\pastaPisirmeUyg.csp
 C:\Users\selin\Desktop\visualst\C#\pastaPisirmeUyg\obj\Debug\pastaPisirmeUyg.csproj.CoreCompileInputs.cache
 C:\Users\selin\Desktop\visualst\C#\pastaPisirmeUyg\obj\Debug\pastaPisirmeUyg.exe
 C:\Users\selin\Desktop\visualst\C#\pastaPisirmeUyg\obj\Debug\pastaPisirmeUyg.pdb
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\cSharpEgzersizler\pastaUyg\bin\Debug\pastaPisirmeUyg.exe.config
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\cSharpEgzersizler\pastaUyg\bin\Debug\pastaPisirmeUyg.exe
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\cSharpEgzersizler\pastaUyg\bin\Debug\pastaPisirmeUyg.pdb
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\cSharpEgzersizler\pastaUyg\obj\Debug\pastaPisirmeUyg.csproj.AssemblyReference.cache
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\cSharpEgzersizler\pastaUyg\obj\Debug\pastaPisirmeUyg.Form1.resources
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\cSharpEgzersizler\pastaUyg\obj\Debug\pastaPisirmeUyg.Properties.Resources.resources
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\cSharpEgzersizler\pastaUyg\obj\Debug\pastaPisirmeUyg.csproj.GenerateResource.cache
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\cSharpEgzersizler\pastaUyg\obj\Debug\pastaPisirmeUyg.csproj.CoreCompileInputs.cache
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\cSharpEgzersizler\pastaUyg\obj\Debug\pastaPisirmeUyg.exe
+C:\Users\selin\OneDrive\Masaüstü\github-yerini değiştirme\cSharpEgzersizler\pastaUyg\obj\Debug\pastaPisirmeUyg.pdb
